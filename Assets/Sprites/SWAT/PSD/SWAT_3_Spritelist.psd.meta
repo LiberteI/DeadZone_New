@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: 7536b3854bc6c4259b4fc89bf9d7ec7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1180403948047645786
+    second: SWAT_3_Spritelist_0
+  - first:
+      213: 5832614569169060253
+    second: SWAT_3_Spritelist_1
+  - first:
+      213: 8002405642335865778
+    second: SWAT_3_Spritelist_2
+  - first:
+      213: -2762703701837156818
+    second: SWAT_3_Spritelist_3
+  - first:
+      213: -2726001201312862540
+    second: SWAT_3_Spritelist_4
+  - first:
+      213: -8429480638738222776
+    second: SWAT_3_Spritelist_5
+  - first:
+      213: -7156373497658220622
+    second: SWAT_3_Spritelist_6
+  - first:
+      213: 3195587349035870077
+    second: SWAT_3_Spritelist_7
+  - first:
+      213: 559339644154554060
+    second: SWAT_3_Spritelist_8
+  - first:
+      213: -3071009846115133663
+    second: SWAT_3_Spritelist_9
+  - first:
+      213: 7463457829789358662
+    second: SWAT_3_Spritelist_10
+  - first:
+      213: 6847104865262443063
+    second: SWAT_3_Spritelist_11
+  - first:
+      213: 6435500807509098947
+    second: SWAT_3_Spritelist_12
+  - first:
+      213: 6945306411750819460
+    second: SWAT_3_Spritelist_13
+  - first:
+      213: 1376964232400362111
+    second: SWAT_3_Spritelist_14
+  - first:
+      213: 7330172328621531074
+    second: SWAT_3_Spritelist_15
+  - first:
+      213: -9170273601288699785
+    second: SWAT_3_Spritelist_16
+  - first:
+      213: -46252016725015952
+    second: SWAT_3_Spritelist_17
+  - first:
+      213: -1627433216861888437
+    second: SWAT_3_Spritelist_18
+  - first:
+      213: 3559205147584577025
+    second: SWAT_3_Spritelist_19
+  - first:
+      213: 3064028600819774528
+    second: SWAT_3_Spritelist_20
+  - first:
+      213: 553441344036633336
+    second: SWAT_3_Spritelist_21
+  - first:
+      213: 6116563410414168679
+    second: SWAT_3_Spritelist_22
+  - first:
+      213: -3498055179868133043
+    second: SWAT_3_Spritelist_23
+  - first:
+      213: -2531889693462795018
+    second: SWAT_3_Spritelist_24
+  - first:
+      213: -8636946453169614065
+    second: SWAT_3_Spritelist_25
+  - first:
+      213: -1850863110910044653
+    second: SWAT_3_Spritelist_26
+  - first:
+      213: 5816420632291072969
+    second: SWAT_3_Spritelist_27
+  - first:
+      213: -6640527264983066268
+    second: SWAT_3_Spritelist_28
+  - first:
+      213: 3086973264293658703
+    second: SWAT_3_Spritelist_29
+  - first:
+      213: -6304748454872926762
+    second: SWAT_3_Spritelist_30
+  - first:
+      213: 5364429153503469113
+    second: SWAT_3_Spritelist_31
+  - first:
+      213: -1289406288166632681
+    second: SWAT_3_Spritelist_32
+  - first:
+      213: -7346408383998428290
+    second: SWAT_3_Spritelist_33
+  - first:
+      213: -6464308364719693477
+    second: SWAT_3_Spritelist_34
+  - first:
+      213: 7203652516958530567
+    second: SWAT_3_Spritelist_35
+  - first:
+      213: -4291485096025681777
+    second: SWAT_3_Spritelist_36
+  - first:
+      213: -3713191323090886848
+    second: SWAT_3_Spritelist_37
+  - first:
+      213: 8604753655533749030
+    second: SWAT_3_Spritelist_38
+  - first:
+      213: -7345624621133139856
+    second: SWAT_3_Spritelist_39
+  - first:
+      213: -7504005533493315636
+    second: SWAT_3_Spritelist_40
+  - first:
+      213: -168379070386419927
+    second: SWAT_3_Spritelist_41
+  - first:
+      213: -93904972888931992
+    second: SWAT_3_Spritelist_42
+  - first:
+      213: -1702561595483953033
+    second: SWAT_3_Spritelist_43
+  - first:
+      213: -1572598772454502556
+    second: SWAT_3_Spritelist_44
+  - first:
+      213: -3082663332611654626
+    second: SWAT_3_Spritelist_45
+  - first:
+      213: -2959434418802800763
+    second: SWAT_3_Spritelist_46
+  - first:
+      213: -2970412243114102726
+    second: SWAT_3_Spritelist_47
+  - first:
+      213: -3302515417777023844
+    second: SWAT_3_Spritelist_48
+  - first:
+      213: 7904960188467180957
+    second: SWAT_3_Spritelist_49
+  - first:
+      213: -48667566021683896
+    second: SWAT_3_Spritelist_50
+  - first:
+      213: 9102112724284315318
+    second: SWAT_3_Spritelist_51
+  - first:
+      213: -6970718373218182914
+    second: SWAT_3_Spritelist_52
+  - first:
+      213: -7882813791811961664
+    second: SWAT_3_Spritelist_53
+  - first:
+      213: -4452248405425672209
+    second: SWAT_3_Spritelist_54
+  - first:
+      213: -3048845107976688092
+    second: SWAT_3_Spritelist_55
+  - first:
+      213: -7333247017242178478
+    second: SWAT_3_Spritelist_56
+  - first:
+      213: 5484937662898054188
+    second: SWAT_3_Spritelist_57
+  - first:
+      213: -5637219266918021619
+    second: SWAT_3_Spritelist_58
+  - first:
+      213: 4432257410197053819
+    second: SWAT_3_Spritelist_59
+  - first:
+      213: -4553033475399207436
+    second: SWAT_3_Spritelist_60
+  - first:
+      213: -8602427027339484124
+    second: SWAT_3_Spritelist_61
+  - first:
+      213: -3322067984525622212
+    second: SWAT_3_Spritelist_62
+  - first:
+      213: -3899964105668455446
+    second: SWAT_3_Spritelist_63
+  - first:
+      213: 4846989231776589433
+    second: SWAT_3_Spritelist_64
+  - first:
+      213: -3644703684079796390
+    second: SWAT_3_Spritelist_65
+  - first:
+      213: -7445602663880919958
+    second: SWAT_3_Spritelist_66
+  - first:
+      213: 6840767870563150572
+    second: SWAT_3_Spritelist_67
+  - first:
+      213: 4140708664358659562
+    second: SWAT_3_Spritelist_68
+  - first:
+      213: -5798255483922885234
+    second: SWAT_3_Spritelist_69
+  - first:
+      213: -4258740705105257058
+    second: SWAT_3_Spritelist_70
+  - first:
+      213: 3567718797953499121
+    second: SWAT_3_Spritelist_71
+  - first:
+      213: 6684450872159998873
+    second: SWAT_3_Spritelist_72
+  - first:
+      213: 1590761935353404247
+    second: SWAT_3_Spritelist_73
+  - first:
+      213: 2167254209744160464
+    second: SWAT_3_Spritelist_74
+  - first:
+      213: -4551179268002204702
+    second: SWAT_3_Spritelist_75
+  - first:
+      213: 2393659978590585228
+    second: SWAT_3_Spritelist_76
+  - first:
+      213: -5413694214833479044
+    second: SWAT_3_Spritelist_77
+  - first:
+      213: -8484897526180494188
+    second: SWAT_3_Spritelist_78
+  - first:
+      213: 923024298448173955
+    second: SWAT_3_Spritelist_79
+  - first:
+      213: 4187417841296117348
+    second: SWAT_3_Spritelist_80
+  - first:
+      213: 2793551193630825000
+    second: SWAT_3_Spritelist_81
+  - first:
+      213: -7346469247337310422
+    second: SWAT_3_Spritelist_82
+  - first:
+      213: -5511299049898952404
+    second: SWAT_3_Spritelist_83
+  - first:
+      213: 8182875502254273233
+    second: SWAT_3_Spritelist_84
+  - first:
+      213: 8301596800816048729
+    second: SWAT_3_Spritelist_85
+  - first:
+      213: -6272856484417680768
+    second: SWAT_3_Spritelist_86
+  - first:
+      213: -4478539800542397716
+    second: SWAT_3_Spritelist_87
+  - first:
+      213: 118251849615182824
+    second: SWAT_3_Spritelist_88
+  - first:
+      213: 7111978457603815436
+    second: SWAT_3_Spritelist_89
+  - first:
+      213: -6708063157537933971
+    second: SWAT_3_Spritelist_90
+  - first:
+      213: -2119531846728627393
+    second: SWAT_3_Spritelist_91
+  - first:
+      213: 5011968131934904570
+    second: SWAT_3_Spritelist_92
+  - first:
+      213: 5199255372887702592
+    second: SWAT_3_Spritelist_93
+  - first:
+      213: -8603757807684747482
+    second: SWAT_3_Spritelist_94
+  - first:
+      213: 135835787407623631
+    second: SWAT_3_Spritelist_95
+  - first:
+      213: -1171089125594335549
+    second: SWAT_3_Spritelist_96
+  - first:
+      213: 4875688606969650479
+    second: SWAT_3_Spritelist_97
+  - first:
+      213: 7650827765502949342
+    second: SWAT_3_Spritelist_98
+  - first:
+      213: -4514691607715085214
+    second: SWAT_3_Spritelist_99
+  - first:
+      213: -1858362413027822933
+    second: SWAT_3_Spritelist_100
+  - first:
+      213: 3205495942385587533
+    second: SWAT_3_Spritelist_101
+  - first:
+      213: -3195053684560617496
+    second: SWAT_3_Spritelist_102
+  - first:
+      213: 740480958521923790
+    second: SWAT_3_Spritelist_103
+  - first:
+      213: 3272319346160042320
+    second: SWAT_3_Spritelist_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1153
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c6210ddc5e9fe0800000000000000
+      internalID: -1180403948047645786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1153
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9107135c0c91f050800000000000000
+      internalID: 5832614569169060253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1153
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc20c78814e0f60800000000000000
+      internalID: 8002405642335865778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1153
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee650ee97e8a9d0800000000000000
+      internalID: -2762703701837156818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1153
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be6572b95c4b2ad0800000000000000
+      internalID: -2726001201312862540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1153
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b9f63508740b80800000000000000
+      internalID: -8429480638738222776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1023
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfdf0058347fac90800000000000000
+      internalID: -7156373497658220622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1023
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e30453c1095c20800000000000000
+      internalID: 3195587349035870077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1023
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc620ae517c23c700800000000000000
+      internalID: 559339644154554060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1023
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127949cd0d49165d0800000000000000
+      internalID: -3071009846115133663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1023
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad3b46a57839760800000000000000
+      internalID: 7463457829789358662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1023
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a11d1f89dc50f50800000000000000
+      internalID: 6847104865262443063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1023
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c15f33ed7f4950800000000000000
+      internalID: 6435500807509098947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1023
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48686a8326fa26060800000000000000
+      internalID: 6945306411750819460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1023
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a54a48ca5fb1310800000000000000
+      internalID: 1376964232400362111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1023
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf52ed55e00ab560800000000000000
+      internalID: 7330172328621531074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1023
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7708b0eeeb4acb080800000000000000
+      internalID: -9170273601288699785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1023
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072c5fc290eab5ff0800000000000000
+      internalID: -46252016725015952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 895
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40a64d9c123a69e0800000000000000
+      internalID: -1627433216861888437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 895
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e35886936d46130800000000000000
+      internalID: 3559205147584577025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 905
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ff7d47cd958a20800000000000000
+      internalID: 3064028600819774528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 895
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa715b58f73ea700800000000000000
+      internalID: 553441344036633336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 895
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a63ebc30662e450800000000000000
+      internalID: 6116563410414168679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 895
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ae3fe859647fc0800000000000000
+      internalID: -3498055179868133043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 895
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc6da20dbbecdcd0800000000000000
+      internalID: -2531889693462795018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 895
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0351ca16f6632880800000000000000
+      internalID: -8636946453169614065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 906
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31615529ec96056e0800000000000000
+      internalID: -1850863110910044653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 895
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb56f39fb318b050800000000000000
+      internalID: 5816420632291072969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 895
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695361b2ab18d3a0800000000000000
+      internalID: -6640527264983066268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 895
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f400a5114d127da20800000000000000
+      internalID: 3086973264293658703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 767
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53b1d2fa80188a0800000000000000
+      internalID: -6304748454872926762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 767
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ed255a4e7427a40800000000000000
+      internalID: 5364429153503469113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 767
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7134caeffcb1b1ee0800000000000000
+      internalID: -1289406288166632681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 767
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b72d86f705c0a90800000000000000
+      internalID: -7346408383998428290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 781
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51eb4aaac92a46a0800000000000000
+      internalID: -6464308364719693477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 777
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c69ae2cc388f360800000000000000
+      internalID: 7203652516958530567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 775
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80918cda059174c0800000000000000
+      internalID: -4291485096025681777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 767
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fda1c3a28187cc0800000000000000
+      internalID: -3713191323090886848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 767
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62345d91cd93a6770800000000000000
+      internalID: 8604753655533749030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 767
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070fefb63591f0a90800000000000000
+      internalID: -7345624621133139856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7b097a9ba6cd790800000000000000
+      internalID: -7504005533493315636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 639
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c10aa02cc9adf0800000000000000
+      internalID: -168379070386419927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 639
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8610058bce162bef0800000000000000
+      internalID: -93904972888931992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 687
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778e4fcdf394f58e0800000000000000
+      internalID: -1702561595483953033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 639
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f42a99fb10d2ae0800000000000000
+      internalID: -1572598772454502556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 696
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c7f89180e2835d0800000000000000
+      internalID: -3082663332611654626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 681
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c13b631afde6d0800000000000000
+      internalID: -2959434418802800763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 690
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3076b48dc9f6c6d0800000000000000
+      internalID: -2970412243114102726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 704
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94562a99bb1b22d0800000000000000
+      internalID: -3302515417777023844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 694
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f03db86f04bd60800000000000000
+      internalID: 7904960188467180957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 682
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845d1374b19135ff0800000000000000
+      internalID: -48667566021683896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b697843c43315e70800000000000000
+      internalID: 9102112724284315318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 703
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89a0f6298034f90800000000000000
+      internalID: -6970718373218182914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 678
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7f7c0f9e9a9290800000000000000
+      internalID: -7882813791811961664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 689
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefadce0aaf6632c0800000000000000
+      internalID: -4452248405425672209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 678
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eacdb178350b5d0800000000000000
+      internalID: -3048845107976688092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 639
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c4617e0b21b3a90800000000000000
+      internalID: -7333247017242178478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 707
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2423347eb96e1c40800000000000000
+      internalID: 5484937662898054188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 675
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060d5aa1f294c1b0800000000000000
+      internalID: -5637219266918021619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 699
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7163e7a1aa828d30800000000000000
+      internalID: 4432257410197053819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 686
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f53e585d2060d0c0800000000000000
+      internalID: -4553033475399207436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 511
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e53d323a0e9880800000000000000
+      internalID: -8602427027339484124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 511
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3407a6e4c4a5e1d0800000000000000
+      internalID: -3322067984525622212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 511
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39bdc0f4b80e9c0800000000000000
+      internalID: -3899964105668455446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 540
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ef2e9607f34340800000000000000
+      internalID: 4846989231776589433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 511
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbdde4f496b6dc0800000000000000
+      internalID: -3644703684079796390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 549
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64fca063d7eba890800000000000000
+      internalID: -7445602663880919958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 534
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea62d3622a4fee50800000000000000
+      internalID: 6840767870563150572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 543
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ea718790c67930800000000000000
+      internalID: 4140708664358659562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 557
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85d0db9b55788fa0800000000000000
+      internalID: -5798255483922885234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 547
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d54b974e9e5e4c0800000000000000
+      internalID: -4258740705105257058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 535
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff708a1855138130800000000000000
+      internalID: 3567718797953499121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 511
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99395a907a0f3cc50800000000000000
+      internalID: 6684450872159998873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 556
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd3fe4d85831610800000000000000
+      internalID: 1590761935353404247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 531
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d645cd9832a31e10800000000000000
+      internalID: 2167254209744160464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 542
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33b95a196f6d0c0800000000000000
+      internalID: -4551179268002204702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 531
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8106f0811df73120800000000000000
+      internalID: 2393659978590585228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 511
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72634a6bc1bed4b0800000000000000
+      internalID: -5413694214833479044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494cb64a7a69f3a80800000000000000
+      internalID: -8484897526180494188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 528
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bbe0485bd3fcc00800000000000000
+      internalID: 923024298448173955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 552
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e869c3752bc1a30800000000000000
+      internalID: 4187417841296117348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 539
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82adb3e7200b4c620800000000000000
+      internalID: 2793551193630825000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 383
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27d02f84291c0a90800000000000000
+      internalID: -7346469247337310422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 383
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2933d7d6bee383b0800000000000000
+      internalID: -5511299049898952404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bc112ae96f8170800000000000000
+      internalID: 8182875502254273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 383
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae82d7e42353370800000000000000
+      internalID: 8301596800816048729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 383
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a474f234652f8a0800000000000000
+      internalID: -6272856484417680768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 383
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceab83c97c709d1c0800000000000000
+      internalID: -4478539800542397716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 383
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb88524e6d14a100800000000000000
+      internalID: 118251849615182824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 383
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b4bfe9b2d2b260800000000000000
+      internalID: 7111978457603815436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 383
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f01c591c28e2a0800000000000000
+      internalID: -6708063157537933971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 383
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bcc91e309e592e0800000000000000
+      internalID: -2119531846728627393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 383
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ee8126761e8540800000000000000
+      internalID: 5011968131934904570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 255
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c338df637772840800000000000000
+      internalID: 5199255372887702592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 255
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff47bcbdf499880800000000000000
+      internalID: -8603757807684747482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 255
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58730dde592e100800000000000000
+      internalID: 135835787407623631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 255
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c670ac15a47fbfe0800000000000000
+      internalID: -1171089125594335549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d58dd94fce9a340800000000000000
+      internalID: 4875688606969650479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 127
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bf7021533d2a60800000000000000
+      internalID: 7650827765502949342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26484b317e79851c0800000000000000
+      internalID: -4514691607715085214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 127
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2f98b3b35c536e0800000000000000
+      internalID: -1858362413027822933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4559de73953c7c20800000000000000
+      internalID: 3205495942385587533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef167d1a93e8a3d0800000000000000
+      internalID: -3195053684560617496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d3af2287b64a00800000000000000
+      internalID: 740480958521923790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWAT_3_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051028b9b1d996d20800000000000000
+      internalID: 3272319346160042320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2830 @@
+fileFormatVersion: 2
+guid: c193131bf78044fa0b7f87bf5ac99eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2212634231672040125
+    second: Mutant_1_Spritelist_0
+  - first:
+      213: -6216072881629242942
+    second: Mutant_1_Spritelist_1
+  - first:
+      213: -8907556862250689813
+    second: Mutant_1_Spritelist_2
+  - first:
+      213: 4261150155292025513
+    second: Mutant_1_Spritelist_3
+  - first:
+      213: -2324578123972135995
+    second: Mutant_1_Spritelist_4
+  - first:
+      213: 7359639102927421561
+    second: Mutant_1_Spritelist_5
+  - first:
+      213: -4292010437274976438
+    second: Mutant_1_Spritelist_6
+  - first:
+      213: 6633261100266921806
+    second: Mutant_1_Spritelist_7
+  - first:
+      213: 1975949101575826317
+    second: Mutant_1_Spritelist_8
+  - first:
+      213: 7066970432961625604
+    second: Mutant_1_Spritelist_9
+  - first:
+      213: 6295007196372572594
+    second: Mutant_1_Spritelist_10
+  - first:
+      213: 8057545422700905521
+    second: Mutant_1_Spritelist_11
+  - first:
+      213: 253469407687084099
+    second: Mutant_1_Spritelist_12
+  - first:
+      213: -5332312611788353995
+    second: Mutant_1_Spritelist_13
+  - first:
+      213: 5768443274392025954
+    second: Mutant_1_Spritelist_14
+  - first:
+      213: 8304580937199444484
+    second: Mutant_1_Spritelist_15
+  - first:
+      213: -1733471004982320112
+    second: Mutant_1_Spritelist_16
+  - first:
+      213: -4351389760651960737
+    second: Mutant_1_Spritelist_17
+  - first:
+      213: -4923772399216559091
+    second: Mutant_1_Spritelist_18
+  - first:
+      213: 3857930622825297875
+    second: Mutant_1_Spritelist_19
+  - first:
+      213: 4302326856578042584
+    second: Mutant_1_Spritelist_20
+  - first:
+      213: -1069627669209509901
+    second: Mutant_1_Spritelist_21
+  - first:
+      213: 3262029210311580586
+    second: Mutant_1_Spritelist_22
+  - first:
+      213: -4220045756070250381
+    second: Mutant_1_Spritelist_23
+  - first:
+      213: -8147655959546314178
+    second: Mutant_1_Spritelist_24
+  - first:
+      213: 8378342175521529028
+    second: Mutant_1_Spritelist_25
+  - first:
+      213: 3354970201239888082
+    second: Mutant_1_Spritelist_26
+  - first:
+      213: 5475143034872407584
+    second: Mutant_1_Spritelist_27
+  - first:
+      213: 811290549220162838
+    second: Mutant_1_Spritelist_28
+  - first:
+      213: 7955684196491435209
+    second: Mutant_1_Spritelist_29
+  - first:
+      213: -429958028645708049
+    second: Mutant_1_Spritelist_30
+  - first:
+      213: 2415503386218140877
+    second: Mutant_1_Spritelist_31
+  - first:
+      213: -1788107675341904662
+    second: Mutant_1_Spritelist_32
+  - first:
+      213: -6545184060294622404
+    second: Mutant_1_Spritelist_33
+  - first:
+      213: -6411213377647665815
+    second: Mutant_1_Spritelist_34
+  - first:
+      213: -1324390432601238972
+    second: Mutant_1_Spritelist_35
+  - first:
+      213: 6362723862514193574
+    second: Mutant_1_Spritelist_36
+  - first:
+      213: 3396185709602717759
+    second: Mutant_1_Spritelist_37
+  - first:
+      213: -4275321423975922528
+    second: Mutant_1_Spritelist_38
+  - first:
+      213: -8073605509321295105
+    second: Mutant_1_Spritelist_39
+  - first:
+      213: -8011290164761224522
+    second: Mutant_1_Spritelist_40
+  - first:
+      213: -8961012344700320220
+    second: Mutant_1_Spritelist_41
+  - first:
+      213: -5672786556749810993
+    second: Mutant_1_Spritelist_42
+  - first:
+      213: 369075769838518162
+    second: Mutant_1_Spritelist_43
+  - first:
+      213: -1281387713841338207
+    second: Mutant_1_Spritelist_44
+  - first:
+      213: 6132333391255009843
+    second: Mutant_1_Spritelist_45
+  - first:
+      213: 1943059443793756581
+    second: Mutant_1_Spritelist_46
+  - first:
+      213: 2279336687746190171
+    second: Mutant_1_Spritelist_47
+  - first:
+      213: 3672302481531095013
+    second: Mutant_1_Spritelist_48
+  - first:
+      213: 7964483149223853536
+    second: Mutant_1_Spritelist_49
+  - first:
+      213: -5435772051910752626
+    second: Mutant_1_Spritelist_50
+  - first:
+      213: 309870146390198719
+    second: Mutant_1_Spritelist_51
+  - first:
+      213: 5240104110835577592
+    second: Mutant_1_Spritelist_52
+  - first:
+      213: 1802368850881970832
+    second: Mutant_1_Spritelist_53
+  - first:
+      213: -5167219006190220202
+    second: Mutant_1_Spritelist_54
+  - first:
+      213: -5174033895114932077
+    second: Mutant_1_Spritelist_55
+  - first:
+      213: 5946286717218452293
+    second: Mutant_1_Spritelist_56
+  - first:
+      213: 5085735508884598231
+    second: Mutant_1_Spritelist_57
+  - first:
+      213: 4690472399869256420
+    second: Mutant_1_Spritelist_58
+  - first:
+      213: -3584167987488265259
+    second: Mutant_1_Spritelist_59
+  - first:
+      213: 3878474380309791886
+    second: Mutant_1_Spritelist_60
+  - first:
+      213: 6939694205877124110
+    second: Mutant_1_Spritelist_61
+  - first:
+      213: 8686143101623523238
+    second: Mutant_1_Spritelist_62
+  - first:
+      213: -3555571348654271093
+    second: Mutant_1_Spritelist_63
+  - first:
+      213: 979455933839953631
+    second: Mutant_1_Spritelist_64
+  - first:
+      213: -1702757161725376255
+    second: Mutant_1_Spritelist_65
+  - first:
+      213: 8274969122380644879
+    second: Mutant_1_Spritelist_66
+  - first:
+      213: 9111250477898138117
+    second: Mutant_1_Spritelist_67
+  - first:
+      213: 3021099020929305383
+    second: Mutant_1_Spritelist_68
+  - first:
+      213: -9115042434741961617
+    second: Mutant_1_Spritelist_69
+  - first:
+      213: 4179762412741962929
+    second: Mutant_1_Spritelist_70
+  - first:
+      213: 4515981075311282779
+    second: Mutant_1_Spritelist_71
+  - first:
+      213: 8307289024860591122
+    second: Mutant_1_Spritelist_72
+  - first:
+      213: 5115667542634618347
+    second: Mutant_1_Spritelist_73
+  - first:
+      213: -62591014358997683
+    second: Mutant_1_Spritelist_74
+  - first:
+      213: 7068526587531756258
+    second: Mutant_1_Spritelist_75
+  - first:
+      213: 70543964530161213
+    second: Mutant_1_Spritelist_76
+  - first:
+      213: 8841440789149785488
+    second: Mutant_1_Spritelist_77
+  - first:
+      213: -7566673307915752971
+    second: Mutant_1_Spritelist_78
+  - first:
+      213: -1380247627146756692
+    second: Mutant_1_Spritelist_79
+  - first:
+      213: -1581252616100086996
+    second: Mutant_1_Spritelist_80
+  - first:
+      213: 3073781919844838826
+    second: Mutant_1_Spritelist_81
+  - first:
+      213: -3925475934313518836
+    second: Mutant_1_Spritelist_82
+  - first:
+      213: -2567900218212235056
+    second: Mutant_1_Spritelist_83
+  - first:
+      213: -8507817754190781422
+    second: Mutant_1_Spritelist_84
+  - first:
+      213: 53081853615089354
+    second: Mutant_1_Spritelist_85
+  - first:
+      213: 7779913941618492646
+    second: Mutant_1_Spritelist_86
+  - first:
+      213: 3679598142306346391
+    second: Mutant_1_Spritelist_87
+  - first:
+      213: -778658155062625042
+    second: Mutant_1_Spritelist_88
+  - first:
+      213: 7909667345520459342
+    second: Mutant_1_Spritelist_89
+  - first:
+      213: -3401677351873314694
+    second: Mutant_1_Spritelist_90
+  - first:
+      213: 2491819405096797242
+    second: Mutant_1_Spritelist_91
+  - first:
+      213: 6351096223073422207
+    second: Mutant_1_Spritelist_92
+  - first:
+      213: -3382762684159296386
+    second: Mutant_1_Spritelist_93
+  - first:
+      213: 8169437319255206809
+    second: Mutant_1_Spritelist_94
+  - first:
+      213: -2406160632012997897
+    second: Mutant_1_Spritelist_95
+  - first:
+      213: 1787715948484812376
+    second: Mutant_1_Spritelist_96
+  - first:
+      213: -5157087982035846502
+    second: Mutant_1_Spritelist_97
+  - first:
+      213: 6807330545479521439
+    second: Mutant_1_Spritelist_98
+  - first:
+      213: 7948588153637738524
+    second: Mutant_1_Spritelist_99
+  - first:
+      213: -1907734283826065556
+    second: Mutant_1_Spritelist_100
+  - first:
+      213: -636540476497170776
+    second: Mutant_1_Spritelist_101
+  - first:
+      213: 9137596577086477873
+    second: Mutant_1_Spritelist_102
+  - first:
+      213: -5448980691879215697
+    second: Mutant_1_Spritelist_103
+  - first:
+      213: -3794343803156068704
+    second: Mutant_1_Spritelist_104
+  - first:
+      213: 5266136685555107736
+    second: Mutant_1_Spritelist_105
+  - first:
+      213: -4874167007598712504
+    second: Mutant_1_Spritelist_106
+  - first:
+      213: 2658911827713775293
+    second: Mutant_1_Spritelist_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1153
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345915ba3e42b41e0800000000000000
+      internalID: -2212634231672040125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1153
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9dc88f5a21cb9a0800000000000000
+      internalID: -6216072881629242942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1153
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea54f06a30026480800000000000000
+      internalID: -8907556862250689813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1153
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a228cc5d75a22b30800000000000000
+      internalID: 4261150155292025513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1153
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33ffb23807dbfd0800000000000000
+      internalID: -2324578123972135995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1153
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970401565c0b22660800000000000000
+      internalID: 7359639102927421561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1023
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb4f15f37bf64c0800000000000000
+      internalID: -4292010437274976438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1023
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f93df73d31e0c50800000000000000
+      internalID: 6633261100266921806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1023
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8beda52d3bfb6b10800000000000000
+      internalID: 1975949101575826317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1023
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ebdd69a2ce21260800000000000000
+      internalID: 7066970432961625604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1023
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9905651bb5c5750800000000000000
+      internalID: 6295007196372572594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1023
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13489a90fd622df60800000000000000
+      internalID: 8057545422700905521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1023
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3480e965511848300800000000000000
+      internalID: 253469407687084099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1023
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e050f6ee1dff5b0800000000000000
+      internalID: -5332312611788353995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1023
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bb0257890ad0050800000000000000
+      internalID: 5768443274392025954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 895
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e042ec5ccf3370800000000000000
+      internalID: 8304580937199444484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 895
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e6972e4971f7e0800000000000000
+      internalID: -1733471004982320112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 895
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e511d3112cc93c0800000000000000
+      internalID: -4351389760651960737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 895
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf2d5171f3babb0800000000000000
+      internalID: -4923772399216559091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 895
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d77a95167f1a8530800000000000000
+      internalID: 3857930622825297875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 895
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da05f93b7fe4bb30800000000000000
+      internalID: 4302326856578042584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 895
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff86de4d4be721f0800000000000000
+      internalID: -1069627669209509901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 767
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabd197a84e054d20800000000000000
+      internalID: 3262029210311580586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 767
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b98d5eb26f65c0800000000000000
+      internalID: -4220045756070250381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 767
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c52ba216bdee80800000000000000
+      internalID: -8147655959546314178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 775
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc52aa71d9d54470800000000000000
+      internalID: 8378342175521529028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 776
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ace46f9f3f8e20800000000000000
+      internalID: 3354970201239888082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 775
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0262608e49d9bfb40800000000000000
+      internalID: 5475143034872407584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 780
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d36e3c478424b00800000000000000
+      internalID: 811290549220162838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 781
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9f0d20a4486e60800000000000000
+      internalID: 7955684196491435209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 781
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feece32737b780af0800000000000000
+      internalID: -429958028645708049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 767
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc419492887958120800000000000000
+      internalID: 2415503386218140877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 767
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a8170b8d5f27e0800000000000000
+      internalID: -1788107675341904662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 639
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33179866c5da25a0800000000000000
+      internalID: -6545184060294622404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 639
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d141ea66bc607a0800000000000000
+      internalID: -6411213377647665815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 639
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44290e02be1de9de0800000000000000
+      internalID: -1324390432601238972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 639
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45f0d44afec4850800000000000000
+      internalID: 6362723862514193574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 639
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c02cb8eca12f20800000000000000
+      internalID: 3396185709602717759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 511
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a44c4701d10ba4c0800000000000000
+      internalID: -4275321423975922528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 511
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa7448a09ac4ff80800000000000000
+      internalID: -8073605509321295105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 511
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba93d07a0e22d090800000000000000
+      internalID: -8011290164761224522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 511
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264f3effb614a380800000000000000
+      internalID: -8961012344700320220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 511
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f05eaea63641b0800000000000000
+      internalID: -5672786556749810993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 511
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fbd6c05783f1500800000000000000
+      internalID: 369075769838518162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 511
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8efe0d9a8973ee0800000000000000
+      internalID: -1281387713841338207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 511
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a75069abc6a1550800000000000000
+      internalID: 6132333391255009843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 383
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18bc4f44227fa10800000000000000
+      internalID: 1943059443793756581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 400
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b80ac14a4d1af10800000000000000
+      internalID: 2279336687746190171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 396
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7427776a3a6f230800000000000000
+      internalID: 3672302481531095013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 393
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed72110a37878e60800000000000000
+      internalID: 7964483149223853536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 389
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e860dd56e124094b0800000000000000
+      internalID: -5435772051910752626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 385
+        width: 126
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90612a141ec4400800000000000000
+      internalID: 309870146390198719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 383
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23b60fce698b840800000000000000
+      internalID: 5240104110835577592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 455
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928c07abec430910800000000000000
+      internalID: 1802368850881970832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 443
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8263e0b95a48b0800000000000000
+      internalID: -5167219006190220202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 459
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39008d9e5932238b0800000000000000
+      internalID: -5174033895114932077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 457
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543fd68b344758250800000000000000
+      internalID: 5946286717218452293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 454
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd28acff79249640800000000000000
+      internalID: 5085735508884598231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 463
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22bf6ebc7e71140800000000000000
+      internalID: 4690472399869256420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 445
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6f62843a724ec0800000000000000
+      internalID: -3584167987488265259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8481dc56eb13d530800000000000000
+      internalID: 3878474380309791886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 383
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7427bc1fbe4060800000000000000
+      internalID: 6939694205877124110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7da7831216b8870800000000000000
+      internalID: 8686143101623523238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 383
+        width: 136
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85d7e552b218aec0800000000000000
+      internalID: -3555571348654271093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 433
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdecda18bf9b79d00800000000000000
+      internalID: 979455933839953631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1094b9c02679e58e0800000000000000
+      internalID: -1702757161725376255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 442
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0203daf29896d270800000000000000
+      internalID: 8274969122380644879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 443
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5020ab2490aa17e70800000000000000
+      internalID: 9111250477898138117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 447
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b85c59d891de920800000000000000
+      internalID: 3021099020929305383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf79cf23dd08180800000000000000
+      internalID: -9115042434741961617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca301e4cf710a30800000000000000
+      internalID: 4179762412741962929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 446
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac05e7cdcfbae30800000000000000
+      internalID: 4515981075311282779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214115daa5b694370800000000000000
+      internalID: 8307289024860591122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 383
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed5bbba6808ef640800000000000000
+      internalID: 5115667542634618347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 432
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452007ddc1a12ff0800000000000000
+      internalID: -62591014358997683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 425
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20c3f0b73781260800000000000000
+      internalID: 7068526587531756258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 421
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d363edaac5f9af000800000000000000
+      internalID: 70543964530161213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 420
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1ce3cd8b13ba70800000000000000
+      internalID: 8841440789149785488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 406
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9604667b6cdf690800000000000000
+      internalID: -7566673307915752971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 390
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad77d1981068dce0800000000000000
+      internalID: -1380247627146756692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b723d9f134e0ae0800000000000000
+      internalID: -1581252616100086996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 405
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadae59de5448aa20800000000000000
+      internalID: 3073781919844838826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 387
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e5e09f68e589c0800000000000000
+      internalID: -3925475934313518836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 396
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8cfca5b5cfc5cd0800000000000000
+      internalID: -2567900218212235056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 384
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21462b334d82ee980800000000000000
+      internalID: -8507817754190781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62fb42aa59cb000800000000000000
+      internalID: 53081853615089354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 384
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e48749928ec7fb60800000000000000
+      internalID: 7779913941618492646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 383
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956b5cd30f801330800000000000000
+      internalID: 3679598142306346391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 385
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf7029886a135f0800000000000000
+      internalID: -778658155062625042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 383
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef0452b88c4cd60800000000000000
+      internalID: 7909667345520459342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 383
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708919a870dac0d0800000000000000
+      internalID: -3401677351873314694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 383
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344835fb88b49220800000000000000
+      internalID: 2491819405096797242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bcd968d50a32850800000000000000
+      internalID: 6351096223073422207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cfc3be2430e01d0800000000000000
+      internalID: -3382762684159296386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba60555fbaf5170800000000000000
+      internalID: 8169437319255206809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 255
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf55057a99b9ed0800000000000000
+      internalID: -2406160632012997897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 255
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85edcb4fe2e3fc810800000000000000
+      internalID: 1787715948484812376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 255
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3153cdc75e68b0800000000000000
+      internalID: -5157087982035846502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9419f7701f787e50800000000000000
+      internalID: 6807330545479521439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 127
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189473ffce0f4e60800000000000000
+      internalID: 7948588153637738524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f86b6c6cd5685e0800000000000000
+      internalID: -1907734283826065556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 127
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6a352fcd8a27f0800000000000000
+      internalID: -636540476497170776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 127
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136901e7ca34fce70800000000000000
+      internalID: 9137596577086477873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb3904ee45164b0800000000000000
+      internalID: -5448980691879215697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68d211a68c75bc0800000000000000
+      internalID: -3794343803156068704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8974a211a63151940800000000000000
+      internalID: 5266136685555107736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84966285eea7b5cb0800000000000000
+      internalID: -4874167007598712504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutant_1_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6d6f3483a56e420800000000000000
+      internalID: 2658911827713775293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
