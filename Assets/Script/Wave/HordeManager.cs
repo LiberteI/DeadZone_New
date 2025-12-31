@@ -60,8 +60,7 @@ public class HordeManager : MonoBehaviour
                 // todo: spawn zombies to selected spawners
                 break;
             }
-
-            Debug.Log("You win!");
+            
         }
     }
 

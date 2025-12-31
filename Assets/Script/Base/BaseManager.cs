@@ -19,6 +19,7 @@ public class BaseManager : MonoBehaviour
 
     public Transform level2Door;
 
+    [SerializeField]
     private float radioMessageTimer;
 
     void Awake()

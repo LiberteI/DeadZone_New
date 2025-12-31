@@ -12,10 +12,10 @@ public class InteractionBox : MonoBehaviour
         }
         if (other.CompareTag("Radio"))
         {
-            Debug.Log("entered radio");
+            // Debug.Log("entered radio");
             if (Input.GetKey("e"))
             {
-                Debug.Log("Sent");
+                // Debug.Log("Sent");
                 BaseManager.Instance.SendSOSMessage();
             }
         }
