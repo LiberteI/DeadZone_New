@@ -81,7 +81,7 @@ public class BaseManager : MonoBehaviour
             return;
         }
 
-        // Debug.Log("SOS Sent");
+        Debug.Log("SOS Sent");
         EventManager.RaiseSOS();
 
         radioMessageTimer = 60f;

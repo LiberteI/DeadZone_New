@@ -5,12 +5,12 @@ using UnityEngine;
 [Serializable]
 public class ThemedHorde
 {
-    // scriptable obj
-    private HordeProfile profile;
+    // Configured via inspector
+    [SerializeField] private HordeProfile profile;
+    [SerializeField] private string hordeName;
 
+    // Runtime state
     private bool hasTriggered;
-
-    private string hordeName;
 
 }
 public class ZombieSpawner : MonoBehaviour
@@ -35,7 +35,11 @@ public class ZombieSpawner : MonoBehaviour
 
     [SerializeField] private GameObject poisonerPrefab;
 
-    [SerializeField] private ThemedHorde horde1;
+    [SerializeField] private ThemedHorde firstHorde;
+
+    [SerializeField] private ThemedHorde secondHorde;
+
+    [SerializeField] private ThemedHorde thirdHorde;
 
     private float zombieSpawnTimer = 0;
 
@@ -43,7 +47,7 @@ public class ZombieSpawner : MonoBehaviour
 
     private float grandHordeTimer;
 
-    void OnEnable()
+    void OnEnable() 
     {
         EventManager.OnMiniHorde += SpawnMiniWave;
 
@@ -65,7 +69,7 @@ public class ZombieSpawner : MonoBehaviour
     }
     void Update()
     {
-        TryGenerateCasualZombies();
+        // TryGenerateCasualZombies();
 
         TryUpdateSmallHordeTimer();
 
