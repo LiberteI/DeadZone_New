@@ -1442,7 +1442,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &949142751
 Transform:
   m_ObjectHideFlags: 0
@@ -3213,7 +3213,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1476574001
 Transform:
   m_ObjectHideFlags: 0
@@ -22178,6 +22178,62 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1226211369}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2038785695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2038785697}
+  - component: {fileID: 2038785696}
+  m_Layer: 0
+  m_Name: GamePlayListener
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2038785696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038785695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0550fbe584262496e803b44b88fefda0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firstHorde:
+    profile: {fileID: 11400000, guid: 9d5eb90011cdf43b781ccccfc97c4a27, type: 2}
+    hordeName: firstHorde
+    hasTriggered: 0
+  secondHorde:
+    profile: {fileID: 11400000, guid: b17ad7e5f202046a3a7db5d613edff86, type: 2}
+    hordeName: SecondHorde
+    hasTriggered: 0
+  thirdHorde:
+    profile: {fileID: 11400000, guid: 7b5815603651347f587fcf4776696e6e, type: 2}
+    hordeName: ThirdHorde
+    hasTriggered: 0
+--- !u!4 &2038785697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038785695}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.9853687, y: 11.384211, z: -0.20926419}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2090059662
 GameObject:
   m_ObjectHideFlags: 0
@@ -23616,3 +23672,4 @@ SceneRoots:
   - {fileID: 7178803287630557467}
   - {fileID: 243257820}
   - {fileID: 244677502}
+  - {fileID: 2038785697}

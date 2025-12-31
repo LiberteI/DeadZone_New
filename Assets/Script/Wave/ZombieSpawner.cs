@@ -47,37 +47,37 @@ public class ZombieSpawner : MonoBehaviour
         return list[randomIdx];
     }
 
-    private void SpawnPoisoner()
+    public void SpawnPoisoner()
     {
         GenerateZombieWithinRadius(poisonerPrefab);
     }
-    private void SpawnJockey()
+    public void SpawnJockey()
     {
         GenerateZombieWithinRadius(jockeyPrefab);
     }
-    private void SpawnScreamer()
+    public void SpawnScreamer()
     {
         GenerateZombieWithinRadius(screamerPrefab);
     }
-    private void SpawnTank()
+    public void SpawnTank()
     {
         GenerateZombieWithinRadius(tankPrefab);
     }
-    private void SpawnBoomer()
+    public void SpawnBoomer()
     {
         GenerateZombieWithinRadius(boomerPrefab);
     }
-    private void SpawnRunner()
+    public void SpawnRunner()
     {
         GenerateZombieWithinRadius(ChooseFromZombies(runnerPrefabs));
     }
     
-    private void SpawnStalker()
+    public void SpawnStalker()
     {
         GenerateZombieWithinRadius(ChooseFromZombies(stalkerPrefabs));
     }
 
-    private void SpawnClutcher()
+    public void SpawnClutcher()
     {
         GenerateZombieWithinRadius(ChooseFromZombies(clutcherPrefabs));
     }

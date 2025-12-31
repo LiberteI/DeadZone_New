@@ -1,6 +1,6 @@
 using UnityEngine;
 using System;
-using Unity.VisualScripting;
+
 public static class EventManager
 {
     public static event Action<BulletHitData> OnBulletHit;
