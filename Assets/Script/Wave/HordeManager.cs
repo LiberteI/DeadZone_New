@@ -10,12 +10,15 @@ public class ThemedHorde
 
     // Runtime state
     public bool hasTriggered = false;
-
+    
 }
 
 public class HordeManager : MonoBehaviour
 {
     private static List<ThemedHorde> mainStreamHordes = new List<ThemedHorde>();
+
+    [SerializeField]
+    private List<GameObject> ZombieSpawnPoints = new List<GameObject>();
 
     [SerializeField]
     private ThemedHorde firstHorde;
