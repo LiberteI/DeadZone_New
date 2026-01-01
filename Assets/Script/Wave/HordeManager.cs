@@ -15,7 +15,6 @@ public class ThemedHorde
 
 public class HordeManager : MonoBehaviour
 {
-    private static List<ThemedHorde> mainStreamHordes = new List<ThemedHorde>();
 
     [SerializeField]
     private List<GameObject> ZombieSpawnPoints = new List<GameObject>();
@@ -31,12 +30,6 @@ public class HordeManager : MonoBehaviour
 
     public bool canStartSpawnZombiesCasually;
 
-    void Awake()
-    {
-        mainStreamHordes.Add(firstHorde);
-        mainStreamHordes.Add(secondHorde);
-        mainStreamHordes.Add(thirdHorde);
-    }
     void OnEnable()
     {
         EventManager.OnSendMessage += TryTriggerMainStreamHorde;
@@ -50,24 +43,32 @@ public class HordeManager : MonoBehaviour
 
     private void TryTriggerMainStreamHorde()
     {
-        TryToggleCanStartSpawnZombiesCasually();
+        
         if (!CanContinueMainStream())
         {
             return;
         }
 
-        // find the first hasnt triggered horde to summon zombies
-        foreach(var horde in mainStreamHordes)
+        if (!firstHorde.hasTriggered)
         {
-            if (!horde.hasTriggered)
-            {
-                horde.hasTriggered = true;
-                Debug.Log("new horde!");
-                // todo: spawn zombies to selected spawners
-                break;
-            }
-            
+            TryToggleCanStartSpawnZombiesCasually();
+            // trigger first horde
+            return;
         }
+
+        if (!secondHorde.hasTriggered)
+        {
+            // trigger second horde
+            return;
+        }
+
+        if (!thirdHorde.hasTriggered)
+        {
+            // trigger third horde
+            return;
+        }
+
+        // trigger the last infinite horde before escaping
     }
 
     // start spawning zombies after first SOS
