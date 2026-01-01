@@ -26,6 +26,8 @@ public class HordeManager : MonoBehaviour
     [SerializeField]
     private ThemedHorde thirdHorde;
 
+    public bool canStartSpawnZombiesCasually;
+
     void Awake()
     {
         mainStreamHordes.Add(firstHorde);
@@ -45,6 +47,7 @@ public class HordeManager : MonoBehaviour
 
     private void TryTriggerMainStreamHorde()
     {
+        TryToggleCanStartSpawnZombiesCasually();
         if (!CanContinueMainStream())
         {
             return;
@@ -64,6 +67,19 @@ public class HordeManager : MonoBehaviour
         }
     }
 
+    // start spawning zombies after first SOS
+    private void TryToggleCanStartSpawnZombiesCasually()
+    {
+        if (canStartSpawnZombiesCasually)
+        {
+            return;
+        }
+
+        if (firstHorde.hasTriggered)
+        {
+            canStartSpawnZombiesCasually = true;
+        }
+    }
     private bool CanContinueMainStream()
     {
         
