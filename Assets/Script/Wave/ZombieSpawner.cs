@@ -82,7 +82,10 @@ public class ZombieSpawner : MonoBehaviour
         GenerateZombieWithinRadius(ChooseFromZombies(clutcherPrefabs));
     }
     
-    
+    public void SpawnCommonInfected()
+    {
+        
+    }
 
     private void OnDrawGizmos()
     {
