@@ -21,4 +21,5 @@ public static class GlobalHelper
         }
         return UnityEngine.Random.Range(smaller, larger);
     }
+
 }

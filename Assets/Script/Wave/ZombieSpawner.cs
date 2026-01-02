@@ -84,7 +84,20 @@ public class ZombieSpawner : MonoBehaviour
     
     public void SpawnCommonInfected()
     {
-        
+        float identifier = GlobalHelper.GetRandomNumberWithRange(0f, 100f);
+
+        if(identifier < 33f)
+        {
+            SpawnRunner();
+        }
+        else if(identifier > 66f)
+        {
+            SpawnClutcher();
+        }
+        else
+        {
+            SpawnStalker();
+        }
     }
 
     private void OnDrawGizmos()
