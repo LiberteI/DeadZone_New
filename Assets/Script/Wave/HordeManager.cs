@@ -1,12 +1,13 @@
 using UnityEngine;
 using System;
+using System.Collections;
 using System.Collections.Generic;
+
 [Serializable]
 public class ThemedHorde
 {
     // Configured via inspector
-    [SerializeField] private HordeProfile profile;
-    [SerializeField] private string hordeName;
+    public HordeProfile profile;
 
     // Runtime state
     public bool hasTriggered = false;
@@ -17,7 +18,7 @@ public class HordeManager : MonoBehaviour
 {
 
     [SerializeField]
-    private List<GameObject> ZombieSpawnPoints = new List<GameObject>();
+    private List<GameObject> zombieSpawnPoints = new List<GameObject>();
 
     [SerializeField]
     private ThemedHorde firstHorde;
@@ -88,5 +89,48 @@ public class HordeManager : MonoBehaviour
     {
         
         return true;
+    }
+
+    // first horde
+    // randomly assign spawners to spawn zombies. spawn 1-3 zombies per time. spawn zombies every 0.5-1 second
+    // resolve horde after all the zombies are killed
+
+    private float GetRandomNumberWithRange(float smaller, float larger)
+    {   
+        if(smaller > larger)
+        {
+            Debug.LogError("Range Error!");
+            return larger;
+        }
+        return UnityEngine.Random.Range(smaller, larger);
+    }
+    private int GetRandomNumberWithRange(int smaller, int larger)
+    {   
+        if(smaller > larger)
+        {
+            Debug.LogError("Range Error!");
+            return larger;
+        }
+        return UnityEngine.Random.Range(smaller, larger);
+    }
+
+    private IEnumerator StartHordeOne(ThemedHorde currentHorde, int hordeIteration)
+    {   
+        int zombieCount = currentHorde.profile.totalZombies;
+        
+        for(int i = 0; i < hordeIteration; i++)
+        {
+            int currentZombieHorde = GetRandomNumberWithRange(1, 3);
+            
+            int selectedZombieSpawnerIndex = GetRandomNumberWithRange(0, zombieSpawnPoints.Count - 1);
+            GameObject selectedZombieSpawner = zombieSpawnPoints[selectedZombieSpawnerIndex];
+
+            // generate zombies using selected zombie spawner
+
+            yield return GetRandomNumberWithRange(0.5f, 1f);
+        }
+
+        
+        yield return null;
     }
 }
