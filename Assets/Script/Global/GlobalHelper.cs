@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Collections.Generic;
 public static class GlobalHelper
 {
-    public static List<GameObject> currentZombiesInScene = new List<GameObject>();
+
     public static float GetRandomNumberWithRange(float smaller, float larger)
     {   
         if(smaller > larger)
@@ -24,13 +24,5 @@ public static class GlobalHelper
         return UnityEngine.Random.Range(smaller, larger);
     }
 
-    public static void AddZombieToCurZombieList(GameObject zombie)
-    {
-        currentZombiesInScene.Add(zombie);
-    }
-
-    public static void EmptyZombieFromZombieList()
-    {
-        currentZombiesInScene.Clear();
-    }
+    
 }

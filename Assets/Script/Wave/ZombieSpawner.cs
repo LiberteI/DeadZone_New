@@ -26,7 +26,7 @@ public class ZombieSpawner : MonoBehaviour
     [SerializeField] private GameObject poisonerPrefab;
 
     
-    private void GenerateZombieWithinRadius(GameObject zombie)
+    private GameObject GenerateZombieWithinRadius(GameObject zombie)
     {
         float newX = UnityEngine.Random.Range(transform.position.x - spawnRadius, transform.position.x + spawnRadius);
 
@@ -38,6 +38,7 @@ public class ZombieSpawner : MonoBehaviour
 
         obj.SetActive(true);
 
+        return obj;
     }
     
     private GameObject ChooseFromZombies(List<GameObject> list)
@@ -47,57 +48,60 @@ public class ZombieSpawner : MonoBehaviour
         return list[randomIdx];
     }
 
-    public void SpawnPoisoner()
+    public GameObject SpawnPoisoner()
     {
-        GenerateZombieWithinRadius(poisonerPrefab);
+        return GenerateZombieWithinRadius(poisonerPrefab);
     }
-    public void SpawnJockey()
+    public GameObject SpawnJockey()
     {
-        GenerateZombieWithinRadius(jockeyPrefab);
+        return GenerateZombieWithinRadius(jockeyPrefab);
     }
-    public void SpawnScreamer()
+    public GameObject SpawnScreamer()
     {
-        GenerateZombieWithinRadius(screamerPrefab);
+        return GenerateZombieWithinRadius(screamerPrefab);
     }
-    public void SpawnTank()
+    public GameObject SpawnTank()
     {
-        GenerateZombieWithinRadius(tankPrefab);
+        return GenerateZombieWithinRadius(tankPrefab);
     }
-    public void SpawnBoomer()
+    public GameObject SpawnBoomer()
     {
-        GenerateZombieWithinRadius(boomerPrefab);
+        return GenerateZombieWithinRadius(boomerPrefab);
     }
-    public void SpawnRunner()
+    public GameObject SpawnRunner()
     {
-        GenerateZombieWithinRadius(ChooseFromZombies(runnerPrefabs));
+        return GenerateZombieWithinRadius(ChooseFromZombies(runnerPrefabs));
     }
     
-    public void SpawnStalker()
+    public GameObject SpawnStalker()
     {
-        GenerateZombieWithinRadius(ChooseFromZombies(stalkerPrefabs));
+        return GenerateZombieWithinRadius(ChooseFromZombies(stalkerPrefabs));
     }
 
-    public void SpawnClutcher()
+    public GameObject SpawnClutcher()
     {
-        GenerateZombieWithinRadius(ChooseFromZombies(clutcherPrefabs));
+        return GenerateZombieWithinRadius(ChooseFromZombies(clutcherPrefabs));
     }
     
-    public void SpawnCommonInfected()
+    public GameObject SpawnCommonInfected()
     {
         float identifier = GlobalHelper.GetRandomNumberWithRange(0f, 100f);
+        GameObject spawned;
 
         if(identifier < 33f)
         {
-            SpawnRunner();
+            spawned = SpawnRunner();
         }
         else if(identifier > 66f)
         {
-            SpawnClutcher();
+            spawned = SpawnClutcher();
         }
         else
         {
-            SpawnStalker();
+            spawned = SpawnStalker();
         }
+        GlobalHordeObserver.AddZombieToCurZombieList(spawned);
+        return spawned;
     }
 
     private void OnDrawGizmos()
