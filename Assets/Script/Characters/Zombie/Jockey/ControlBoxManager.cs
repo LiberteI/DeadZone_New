@@ -25,6 +25,6 @@ public class ControlBoxManager : MonoBehaviour
 
         EventManager.RaiseOnControlSuccessful(data);
 
-        Debug.Log($"Captured {data.receiver}");
+        // Debug.Log($"Captured {data.receiver}");
     }
 }

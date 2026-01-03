@@ -31,6 +31,6 @@ public class SurvivorDetection : MonoBehaviour
 
         EventManager.RaiseOnSeeSurvivor(data);
 
-        Debug.Log($"Sees {data.receiver}");
+        // Debug.Log($"Sees {data.receiver}");
     }
 }
