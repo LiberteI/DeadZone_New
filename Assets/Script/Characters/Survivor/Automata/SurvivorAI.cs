@@ -137,7 +137,7 @@ public class SurvivorAI : MonoBehaviour
         // calculate distance on the x axis
         if (survivorManager.survivorIsPlayed == null)
         {
-            Debug.Log("current survivor played is null");
+            // Debug.Log("current survivor played is null");
             return;
         }
         // cache Transform

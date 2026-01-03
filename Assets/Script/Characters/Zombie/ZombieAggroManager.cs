@@ -156,7 +156,7 @@ public class ZombieAggroManager : MonoBehaviour
     {
         if (currentTarget == null)
         {
-            Debug.Log("Current target is null. Cannot calculate distance");
+            // Debug.Log("Current target is null. Cannot calculate distance");
             return;
         }
         // Debug.Log(currentTarget);
@@ -237,7 +237,7 @@ public class ZombieAggroManager : MonoBehaviour
         // no survivor in the same floor found
         if (survivorTargetIdx == -99)
         {
-            Debug.Log("no survivor in the same floor found");
+            // Debug.Log("no survivor in the same floor found");
             return null;
         }
         else
