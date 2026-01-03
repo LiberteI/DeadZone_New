@@ -54,6 +54,7 @@ public class HordeManager : MonoBehaviour
         {
             TryToggleCanStartSpawnZombiesCasually();
             // trigger first horde
+            StartCoroutine(StartHordeOne(firstHorde, 20));
             return;
         }
 
@@ -108,6 +109,11 @@ public class HordeManager : MonoBehaviour
 
             ZombieSpawner selectedZombieSpawner = selectedZombieSpawnPoint.GetComponent<ZombieSpawner>();
             // generate zombies using selected zombie spawner
+
+            for(int j = 0; j < zombieCount; j++)
+            {
+                selectedZombieSpawner.SpawnCommonInfected();
+            }
 
             yield return GlobalHelper.GetRandomNumberWithRange(0.5f, 1f);
         }
