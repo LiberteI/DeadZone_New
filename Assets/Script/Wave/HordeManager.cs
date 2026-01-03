@@ -110,7 +110,7 @@ public class HordeManager : MonoBehaviour
             ZombieSpawner selectedZombieSpawner = selectedZombieSpawnPoint.GetComponent<ZombieSpawner>();
             // generate zombies using selected zombie spawner
 
-            for(int j = 0; j < zombieCount; j++)
+            for(int j = 0; j < zombieCountToSpawn; j++)
             {
                 selectedZombieSpawner.SpawnCommonInfected();
             }

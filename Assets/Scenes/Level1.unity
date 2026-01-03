@@ -119,6 +119,72 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &158555769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 158555771}
+  - component: {fileID: 158555770}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &158555770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158555769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &158555771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158555769}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 55.1, y: -4.9, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &177896328
 GameObject:
   m_ObjectHideFlags: 0
@@ -308,7 +374,7 @@ Transform:
   m_GameObject: {fileID: 243257819}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -47.6, y: -0.7, z: 0.08731581}
+  m_LocalPosition: {x: -106.9, y: -4.9, z: 0.08731581}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1874,6 +1940,72 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.8125, y: 4.5}
   m_EdgeRadius: 0
+--- !u!1 &1048669183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1048669185}
+  - component: {fileID: 1048669184}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1048669184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048669183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &1048669185
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048669183}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 98, y: -5.8, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1067220755
 GameObject:
   m_ObjectHideFlags: 0
@@ -1906,6 +2038,72 @@ Transform:
   - {fileID: 949142751}
   - {fileID: 1476574001}
   - {fileID: 1455524947}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1095787899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1095787901}
+  - component: {fileID: 1095787900}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1095787900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095787899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &1095787901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095787899}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -71.2, y: -1.9, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1209985048
@@ -2596,7 +2794,7 @@ Transform:
   m_GameObject: {fileID: 1345269436}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.3, y: -4.4, z: 0}
+  m_LocalPosition: {x: 13.5, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3794,6 +3992,72 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 23.32114, y: 3.6554713}
   m_EdgeRadius: 0
+--- !u!1 &1741458676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1741458678}
+  - component: {fileID: 1741458677}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1741458677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741458676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &1741458678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741458676}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -47.6, y: -0.7, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1747536729
 GameObject:
   m_ObjectHideFlags: 0
@@ -3890,6 +4154,138 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1773743974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1773743976}
+  - component: {fileID: 1773743975}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1773743975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773743974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &1773743976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773743974}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 75.3, y: -4.6, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1787541977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1787541979}
+  - component: {fileID: 1787541978}
+  m_Layer: 0
+  m_Name: ZombieSpawnPoint (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1787541978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787541977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79638bdea98594f6980c06cde0357f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnRadius: 2.15
+  runnerPrefabs:
+  - {fileID: 3623392772042227988}
+  - {fileID: 2647817645394759403}
+  - {fileID: 7103293714269817612}
+  - {fileID: 80353444251514835}
+  clutcherPrefabs:
+  - {fileID: 6673227170337212230}
+  - {fileID: 1945501292145864979}
+  - {fileID: 7472835550714229282}
+  stalkerPrefabs:
+  - {fileID: 7204739740304726736}
+  - {fileID: 7997108861852958151}
+  - {fileID: 6338447242938992763}
+  - {fileID: 404209464550210660}
+  - {fileID: 3523225188434854227}
+  - {fileID: 7127075487313404474}
+  boomerPrefab: {fileID: 5159619168411495892}
+  tankPrefab: {fileID: 5286548348389706515}
+  screamerPrefab: {fileID: 6338447242938992763}
+  jockeyPrefab: {fileID: 4573702311943923198}
+  poisonerPrefab: {fileID: 418036959290196947}
+--- !u!4 &1787541979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787541977}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -92, y: -3.1, z: 0.08731581}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1796438521
 GameObject:
   m_ObjectHideFlags: 0
@@ -21674,6 +22070,7 @@ MonoBehaviour:
   baseObj: {fileID: 1038757134}
   level1Door: {fileID: 990226606}
   level2Door: {fileID: 1301615109}
+  radioMessageTimer: 0
 --- !u!1 &1933410545
 GameObject:
   m_ObjectHideFlags: 0
@@ -22207,18 +22604,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0550fbe584262496e803b44b88fefda0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  zombieSpawnPoints:
+  - {fileID: 243257819}
+  - {fileID: 1048669183}
+  - {fileID: 158555769}
+  - {fileID: 1773743974}
+  - {fileID: 1741458676}
+  - {fileID: 1787541977}
+  - {fileID: 1095787899}
   firstHorde:
     profile: {fileID: 11400000, guid: 9d5eb90011cdf43b781ccccfc97c4a27, type: 2}
-    hordeName: firstHorde
     hasTriggered: 0
   secondHorde:
     profile: {fileID: 11400000, guid: b17ad7e5f202046a3a7db5d613edff86, type: 2}
-    hordeName: SecondHorde
     hasTriggered: 0
   thirdHorde:
     profile: {fileID: 11400000, guid: 7b5815603651347f587fcf4776696e6e, type: 2}
-    hordeName: ThirdHorde
     hasTriggered: 0
+  canStartSpawnZombiesCasually: 0
 --- !u!4 &2038785697
 Transform:
   m_ObjectHideFlags: 0
@@ -23671,5 +24074,11 @@ SceneRoots:
   - {fileID: 1067220756}
   - {fileID: 7178803287630557467}
   - {fileID: 243257820}
+  - {fileID: 1048669185}
+  - {fileID: 158555771}
+  - {fileID: 1773743976}
+  - {fileID: 1741458678}
+  - {fileID: 1787541979}
+  - {fileID: 1095787901}
   - {fileID: 244677502}
   - {fileID: 2038785697}
