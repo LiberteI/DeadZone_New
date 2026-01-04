@@ -16,12 +16,12 @@ public class GlobalHordeObserver : MonoBehaviour
         {
             MonitorCurrentHordeResolved();
         }
-        
+
         TryToggleCanStartSpawnZombiesCasually();
         // Debug.Log($"current zombie : {currentZombiesInScene.Count}");
 
         // Debug.Log($"can continue: {canContinueMainStream}");
-        Debug.Log($"can spawn casual zombies: {canStartSpawnZombiesCasually}");
+        // Debug.Log($"can spawn casual zombies: {canStartSpawnZombiesCasually}");
     }
     void OnEnable()
     {

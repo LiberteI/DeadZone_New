@@ -60,7 +60,7 @@ public class HordeManager : MonoBehaviour
 
         if (!firstHorde.hasTriggered)
         {
-            Debug.Log("horde 1 triggered");
+            // Debug.Log("horde 1 triggered");
             
             // trigger first horde
             StartCoroutine(StartHordeOne(20));
