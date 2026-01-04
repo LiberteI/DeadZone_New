@@ -21,6 +21,8 @@ public class HordeManager : MonoBehaviour
     [SerializeField]
     private List<GameObject> zombieSpawnPoints = new List<GameObject>();
 
+    public List<GameObject> ZombieSpawnPoints => zombieSpawnPoints;
+
     [SerializeField]
     private ThemedHorde firstHorde;
 
@@ -30,6 +32,7 @@ public class HordeManager : MonoBehaviour
     [SerializeField]
     private ThemedHorde thirdHorde;
 
+    public ThemedHorde FirstHorde => firstHorde;
 
     void OnEnable()
     {
@@ -47,7 +50,7 @@ public class HordeManager : MonoBehaviour
         EventManager.OnSendMessage -= TryTriggerMainStreamHorde;
     }
     
-    public ThemedHorde FirstHorde => firstHorde;
+
 
     private void TryTriggerMainStreamHorde()
     {
@@ -86,7 +89,13 @@ public class HordeManager : MonoBehaviour
         // trigger the last infinite horde before escaping
     }
 
-   
+    public ZombieSpawner GetRandomZombieSpawner()
+    {
+        int selectedZombieSpawnPointIndex = GlobalHelper.GetRandomNumberWithRange(0, zombieSpawnPoints.Count - 1);
+        GameObject selectedZombieSpawnPoint = zombieSpawnPoints[selectedZombieSpawnPointIndex];
+
+        return selectedZombieSpawnPoint.GetComponent<ZombieSpawner>();
+    }
 
     // first horde
     // randomly assign spawners to spawn zombies. spawn 1-3 zombies per time. spawn zombies every 0.5-1 second
@@ -100,10 +109,7 @@ public class HordeManager : MonoBehaviour
         {
             int zombieCountToSpawn = GlobalHelper.GetRandomNumberWithRange(1, 3);
             
-            int selectedZombieSpawnPointIndex = GlobalHelper.GetRandomNumberWithRange(0, zombieSpawnPoints.Count - 1);
-            GameObject selectedZombieSpawnPoint = zombieSpawnPoints[selectedZombieSpawnPointIndex];
-
-            ZombieSpawner selectedZombieSpawner = selectedZombieSpawnPoint.GetComponent<ZombieSpawner>();
+            ZombieSpawner selectedZombieSpawner = GetRandomZombieSpawner();
             // generate zombies using selected zombie spawner
 
             for(int j = 0; j < zombieCountToSpawn; j++)

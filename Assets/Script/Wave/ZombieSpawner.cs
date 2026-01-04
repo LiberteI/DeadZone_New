@@ -104,6 +104,25 @@ public class ZombieSpawner : MonoBehaviour
         return spawned;
     }
 
+    public void SpawnZombiesCasually()
+    {
+        float identifier = GlobalHelper.GetRandomNumberWithRange(0f, 100f);
+
+        if(identifier < 33f)
+        {
+            SpawnRunner();
+        }
+        else if(identifier > 66f)
+        {
+            SpawnClutcher();
+        }
+        else
+        {
+            SpawnStalker();
+        }
+        
+    }
+
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.blue;

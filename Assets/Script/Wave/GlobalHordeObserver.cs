@@ -3,15 +3,20 @@ using System.Collections.Generic;
 public class GlobalHordeObserver : MonoBehaviour
 {
     public static List<GameObject> currentZombiesInScene = new List<GameObject>();
-
+    
     public static bool shouldStartObserveCurrentZombies = false;
     
     public static bool canContinueMainStream = true;
 
     public bool canStartSpawnZombiesCasually;
 
+    private float casualZombieTimer = 0;
     void Update()
     {
+        if (canStartSpawnZombiesCasually)
+        {
+            TryGenerateZombieCasually();
+        }
         if (shouldStartObserveCurrentZombies)
         {
             MonitorCurrentHordeResolved();
@@ -34,7 +39,28 @@ public class GlobalHordeObserver : MonoBehaviour
         EventManager.OnHordeStart -= SetObserverFalse;
         EventManager.OnHordeEnd -= SetObserverTrue;
     }
-     // start spawning zombies after first SOS
+
+    
+    private void TryGenerateZombieCasually()
+    {
+        if(casualZombieTimer > 0)
+        {
+            casualZombieTimer -= Time.deltaTime;
+            return;
+        }
+        
+        GenerateCasualZombies();
+        casualZombieTimer = 5f;
+    }
+
+    private void GenerateCasualZombies()
+    {
+        Debug.Log("generated");
+        ZombieSpawner randomZombieSpawner = HordeManager.Instance.GetRandomZombieSpawner();
+        randomZombieSpawner.SpawnZombiesCasually();
+    }
+
+    // start spawning zombies after first SOS
     private void TryToggleCanStartSpawnZombiesCasually()
     {
         if (canStartSpawnZombiesCasually)
@@ -83,4 +109,7 @@ public class GlobalHordeObserver : MonoBehaviour
     {
         currentZombiesInScene.Clear();
     }
+
+
+
 }
