@@ -54,7 +54,7 @@ public class HordeManager : MonoBehaviour
         {
             TryToggleCanStartSpawnZombiesCasually();
             // trigger first horde
-            StartCoroutine(StartHordeOne(firstHorde, 20));
+            StartCoroutine(StartHordeOne(20));
             return;
         }
 
@@ -96,9 +96,8 @@ public class HordeManager : MonoBehaviour
     // randomly assign spawners to spawn zombies. spawn 1-3 zombies per time. spawn zombies every 0.5-1 second
     // resolve horde after all the zombies are killed
 
-    private IEnumerator StartHordeOne(ThemedHorde currentHorde, int hordeIteration)
+    private IEnumerator StartHordeOne(int hordeIteration)
     {   
-        int zombieCount = currentHorde.profile.totalZombies;
         
         for(int i = 0; i < hordeIteration; i++)
         {
@@ -115,7 +114,7 @@ public class HordeManager : MonoBehaviour
                 selectedZombieSpawner.SpawnCommonInfected();
             }
 
-            yield return GlobalHelper.GetRandomNumberWithRange(0.5f, 1f);
+            yield return GlobalHelper.GetRandomNumberWithRange(1f, 2f);
         }
 
         
