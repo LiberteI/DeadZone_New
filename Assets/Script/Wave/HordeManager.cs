@@ -44,22 +44,27 @@ public class HordeManager : MonoBehaviour
 
     private void TryTriggerMainStreamHorde()
     {
-        
-        if (!CanContinueMainStream())
-        {
+
+        if (!GlobalHordeObserver.canContinueMainStream)
+        {   
+            Debug.Log("You cannot start a new horde now!");
             return;
         }
 
         if (!firstHorde.hasTriggered)
         {
+            Debug.Log("horde 1 triggered");
             TryToggleCanStartSpawnZombiesCasually();
             // trigger first horde
             StartCoroutine(StartHordeOne(20));
+            firstHorde.hasTriggered = true;
             return;
         }
+        
 
         if (!secondHorde.hasTriggered)
         {
+            Debug.Log("sencond horde");
             // trigger second horde
             return;
         }
@@ -86,11 +91,6 @@ public class HordeManager : MonoBehaviour
             canStartSpawnZombiesCasually = true;
         }
     }
-    private bool CanContinueMainStream()
-    {
-        
-        return true;
-    }
 
     // first horde
     // randomly assign spawners to spawn zombies. spawn 1-3 zombies per time. spawn zombies every 0.5-1 second
@@ -98,6 +98,7 @@ public class HordeManager : MonoBehaviour
 
     private IEnumerator StartHordeOne(int hordeIteration)
     {   
+        EventManager.RaiseHordeStart();
         
         for(int i = 0; i < hordeIteration; i++)
         {
@@ -117,6 +118,13 @@ public class HordeManager : MonoBehaviour
             yield return GlobalHelper.GetRandomNumberWithRange(1f, 2f);
         }
 
+        EventManager.RaiseHordeEnd();
+        
+        yield return null;
+    }
+
+    private IEnumerator StartHordeTwo(ThemedHorde secondHorde)
+    {
         
         yield return null;
     }

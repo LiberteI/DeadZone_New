@@ -48,6 +48,25 @@ public static class EventManager
 
     public static event Action OnSendMessage;
 
+    public static event Action OnHordeStart;
+
+    public static event Action OnHordeEnd;
+
+    public static void RaiseHordeStart()
+    {
+        if (OnHordeStart != null)
+        {
+            OnHordeStart();
+        }
+    }
+
+    public static void RaiseHordeEnd()
+    {
+        if(OnHordeEnd != null)
+        {
+            OnHordeEnd();
+        }
+    }
     public static void RaiseSOS()
     {
         if (OnSendMessage != null)
