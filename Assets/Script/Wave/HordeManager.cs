@@ -31,6 +31,11 @@ public class HordeManager : MonoBehaviour
 
     public bool canStartSpawnZombiesCasually;
 
+    void Update()
+    {
+        Debug.Log($"can spawn casual zombies: {canStartSpawnZombiesCasually}");
+    }
+
     void OnEnable()
     {
         EventManager.OnSendMessage += TryTriggerMainStreamHorde;
@@ -54,10 +59,12 @@ public class HordeManager : MonoBehaviour
         if (!firstHorde.hasTriggered)
         {
             Debug.Log("horde 1 triggered");
-            TryToggleCanStartSpawnZombiesCasually();
+            
             // trigger first horde
             StartCoroutine(StartHordeOne(20));
             firstHorde.hasTriggered = true;
+
+            TryToggleCanStartSpawnZombiesCasually();
             return;
         }
         
