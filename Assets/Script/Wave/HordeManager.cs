@@ -16,6 +16,7 @@ public class ThemedHorde
 
 public class HordeManager : MonoBehaviour
 {
+    public static HordeManager Instance { get; private set; }
 
     [SerializeField]
     private List<GameObject> zombieSpawnPoints = new List<GameObject>();
@@ -29,23 +30,24 @@ public class HordeManager : MonoBehaviour
     [SerializeField]
     private ThemedHorde thirdHorde;
 
-    public bool canStartSpawnZombiesCasually;
-
-    void Update()
-    {
-        Debug.Log($"can spawn casual zombies: {canStartSpawnZombiesCasually}");
-    }
 
     void OnEnable()
     {
+        Instance = this;
         EventManager.OnSendMessage += TryTriggerMainStreamHorde;
 
     }
 
-    void Disable()
+    void OnDisable()
     {
+        if (Instance == this)
+        {
+            Instance = null;
+        }
         EventManager.OnSendMessage -= TryTriggerMainStreamHorde;
     }
+    
+    public ThemedHorde FirstHorde => firstHorde;
 
     private void TryTriggerMainStreamHorde()
     {
@@ -64,7 +66,6 @@ public class HordeManager : MonoBehaviour
             StartCoroutine(StartHordeOne(20));
             firstHorde.hasTriggered = true;
 
-            TryToggleCanStartSpawnZombiesCasually();
             return;
         }
         
@@ -85,19 +86,7 @@ public class HordeManager : MonoBehaviour
         // trigger the last infinite horde before escaping
     }
 
-    // start spawning zombies after first SOS
-    private void TryToggleCanStartSpawnZombiesCasually()
-    {
-        if (canStartSpawnZombiesCasually)
-        {
-            return;
-        }
-
-        if (firstHorde.hasTriggered)
-        {
-            canStartSpawnZombiesCasually = true;
-        }
-    }
+   
 
     // first horde
     // randomly assign spawners to spawn zombies. spawn 1-3 zombies per time. spawn zombies every 0.5-1 second

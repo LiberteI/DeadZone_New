@@ -8,15 +8,20 @@ public class GlobalHordeObserver : MonoBehaviour
     
     public static bool canContinueMainStream = true;
 
+    public bool canStartSpawnZombiesCasually;
+
     void Update()
     {
         if (shouldStartObserveCurrentZombies)
         {
             MonitorCurrentHordeResolved();
         }
+        
+        TryToggleCanStartSpawnZombiesCasually();
         // Debug.Log($"current zombie : {currentZombiesInScene.Count}");
 
         // Debug.Log($"can continue: {canContinueMainStream}");
+        Debug.Log($"can spawn casual zombies: {canStartSpawnZombiesCasually}");
     }
     void OnEnable()
     {
@@ -29,7 +34,19 @@ public class GlobalHordeObserver : MonoBehaviour
         EventManager.OnHordeStart -= SetObserverFalse;
         EventManager.OnHordeEnd -= SetObserverTrue;
     }
-    
+     // start spawning zombies after first SOS
+    private void TryToggleCanStartSpawnZombiesCasually()
+    {
+        if (canStartSpawnZombiesCasually)
+        {
+            return;
+        }
+
+        if (HordeManager.Instance != null && HordeManager.Instance.FirstHorde.hasTriggered)
+        {
+            canStartSpawnZombiesCasually = true;
+        }
+    }
     private void SetObserverTrue()
     {
         shouldStartObserveCurrentZombies = true;
