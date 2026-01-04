@@ -85,7 +85,7 @@ public class BaseManager : MonoBehaviour
         // Debug.Log("SOS Sent");
         EventManager.RaiseSOS();
 
-        radioMessageTimer = 60f;
+        radioMessageTimer = 5f;
     }
 
     private void TryUpdateSOSMessageCoolDown()
