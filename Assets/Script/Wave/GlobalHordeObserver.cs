@@ -30,14 +30,14 @@ public class GlobalHordeObserver : MonoBehaviour
     }
     void OnEnable()
     {
-        EventManager.OnHordeStart += SetObserverFalse;
-        EventManager.OnHordeEnd += SetObserverTrue;
+        HordeEvents.OnHordeStart += SetObserverFalse;
+        HordeEvents.OnHordeEnd += SetObserverTrue;
     }
 
     void OnDisable()
     {
-        EventManager.OnHordeStart -= SetObserverFalse;
-        EventManager.OnHordeEnd -= SetObserverTrue;
+        HordeEvents.OnHordeStart -= SetObserverFalse;
+        HordeEvents.OnHordeEnd -= SetObserverTrue;
     }
 
     

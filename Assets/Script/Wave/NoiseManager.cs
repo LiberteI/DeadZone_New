@@ -95,7 +95,7 @@ public class NoiseManager : MonoBehaviour
             if (oriValue < GRAND_HORDE_THRESHOLD)
             {
                 // raise grand horde
-                EventManager.RaiseGrandHorde();
+                HordeEvents.RaiseGrandHorde();
                 return;
             }
             
@@ -106,7 +106,7 @@ public class NoiseManager : MonoBehaviour
             if (oriValue < SMALL_HORDE_THRESHOLD)
             {
                 // raise small horde
-                EventManager.RaiseSmallHorde();
+                HordeEvents.RaiseSmallHorde();
                 return;
             }
             
@@ -117,7 +117,7 @@ public class NoiseManager : MonoBehaviour
             if (oriValue < MINI_WAVE_THRESHOLD)
             {
                 // raise mini wave 
-                EventManager.RaiseMiniHorde();
+                HordeEvents.RaiseMiniHorde();
                 return;
             }
             

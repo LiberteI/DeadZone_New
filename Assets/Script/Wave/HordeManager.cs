@@ -37,7 +37,7 @@ public class HordeManager : MonoBehaviour
     void OnEnable()
     {
         Instance = this;
-        EventManager.OnSendMessage += TryTriggerMainStreamHorde;
+        HordeEvents.OnSendMessage += TryTriggerMainStreamHorde;
 
     }
 
@@ -47,7 +47,7 @@ public class HordeManager : MonoBehaviour
         {
             Instance = null;
         }
-        EventManager.OnSendMessage -= TryTriggerMainStreamHorde;
+        HordeEvents.OnSendMessage -= TryTriggerMainStreamHorde;
     }
     
 
@@ -103,7 +103,7 @@ public class HordeManager : MonoBehaviour
 
     private IEnumerator StartHordeOne(int hordeIteration)
     {   
-        EventManager.RaiseHordeStart();
+        HordeEvents.RaiseHordeStart();
         
         for(int i = 0; i < hordeIteration; i++)
         {
@@ -120,7 +120,7 @@ public class HordeManager : MonoBehaviour
             yield return GlobalHelper.GetRandomNumberWithRange(1f, 2f);
         }
 
-        EventManager.RaiseHordeEnd();
+        HordeEvents.RaiseHordeEnd();
         
         yield return null;
     }

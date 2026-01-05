@@ -83,7 +83,7 @@ public class BaseManager : MonoBehaviour
         }
 
         // Debug.Log("SOS Sent");
-        EventManager.RaiseSOS();
+        HordeEvents.RaiseSOS();
 
         radioMessageTimer = 5f;
     }

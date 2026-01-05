@@ -10,11 +10,8 @@ public static class EventManager
     public static event Action<GameObject> OnSurvivorDied;
 
     public static event Action OnBaseBroken;
-    public static event Action OnStopSpawning;
 
     public static event Action<GameObject> OnZombieDie;
-
-    public static event Action OnClearLevel;
 
     public static event Action<ClutchData> OnClutch;
 
@@ -38,67 +35,8 @@ public static class EventManager
 
     public static event Action<GameObject, bool> OnFloorChanged;
 
-    public static event Action OnMiniHorde;
-
-    public static event Action OnSmallHorde;
-
-    public static event Action OnGrandHorde;
-
     public static event Action<float> OnGunShot;
 
-    public static event Action OnSendMessage;
-
-    public static event Action OnHordeStart;
-
-    public static event Action OnHordeEnd;
-
-    public static void RaiseHordeStart()
-    {
-        if (OnHordeStart != null)
-        {
-            OnHordeStart();
-        }
-    }
-
-    public static void RaiseHordeEnd()
-    {
-        if(OnHordeEnd != null)
-        {
-            OnHordeEnd();
-        }
-    }
-    public static void RaiseSOS()
-    {
-        if (OnSendMessage != null)
-        {
-            OnSendMessage();
-        }
-        
-    }
-
-    public static void RaiseMiniHorde()
-    {
-        if (OnMiniHorde != null)
-        {
-            OnMiniHorde();
-        }
-    }
-
-    public static void RaiseSmallHorde()
-    {
-        if (OnSmallHorde != null)
-        {
-            OnSmallHorde();
-        }
-    }
-
-    public static void RaiseGrandHorde()
-    {
-        if (OnGrandHorde != null)
-        {
-            OnGrandHorde();
-        }
-    }
     public static void RaiseOnGunShot(float noise)
     {
         if (OnGunShot != null)
@@ -198,26 +136,11 @@ public static class EventManager
         }
     }
 
-    public static void RaiseOnClearLevel()
-    {
-        if (OnClearLevel != null)
-        {
-            OnClearLevel();
-        }
-    }
-
     public static void RaiseOnZombieDie(GameObject zombie)
     {
         if (OnZombieDie != null)
         {
             OnZombieDie(zombie);
-        }
-    }
-    public static void RaiseStopSpawning()
-    {
-        if (OnStopSpawning != null)
-        {
-            OnStopSpawning();
         }
     }
 
